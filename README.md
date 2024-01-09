@@ -17,3 +17,4 @@ Key Features:
 **Responsive Design:** Enjoy a seamless experience across various devices. Whether you're on a desktop, laptop, tablet, or mobile phone, our website adapts to your screen size, providing a consistent and enjoyable browsing experience.
 
 Interactive Elements: Engage with our website through interactive elements powered by JavaScript. From dynamic game previews to responsive tooltips, we've added thoughtful features to enhance your overall experience.
+![screencapture-run-your-game1-glitch-me-2024-01-09-17_34_52](https://github.com/travolta11/RUN-YOUR-GAME/assets/63265720/4bc6cd60-1fd6-4c10-b8ca-3394c875b7a7)
